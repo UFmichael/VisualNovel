@@ -17,4 +17,6 @@ label start:
 
     "Your name is [player_name]."
 
+    "this is a test push"
+
     return
